@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <h3>
     👑 Welcome to my github! 
   </h3>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaekyungshon&count_bg=%23B22AAD&title_bg=%23AA1919&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstoryinstoryjks&count_bg=%23B22AAD&title_bg=%23AA1919&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=false"/></a>
   <br/>
   <br/>
   
-  ![Jaekyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaekyungshon&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=storyinstoryjks&show_icons=true&theme=radical)
 </div>
 
 <!-- Body -->

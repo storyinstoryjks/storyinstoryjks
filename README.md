@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%,%World!&height=180&animation=fadeIn)
   <h3>
-    👑 Welcome to my  github! 
+    👑 Welcome  to my  github! 
   </h3>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstoryinstoryjks&count_bg=%23B22AAD&title_bg=%23AA1919&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=false"/></a>
   <br/>

@@ -2,12 +2,9 @@
 
 ### ⁉️ ABOUT ME
 ##### 👇 클릭하시면 해당하는 링크로 연결됩니다! 👇 (노션 링크 미기재)
-<a href="#"/>
-  <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> </a>
-<a href="https://storyinstory.tistory.com/"/>
-  <img src="https://img.shields.io/badge/Tistory-FD5F07.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a>
-<a href="mailto:jksohn28@gmail.com" />
-  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jksohn28@gmail.com"/> </a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jksohn28@gmail.com)](mailto:jksohn28@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=#)](#)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FD5F07?style=flat-square&logo=Tistory&logoColor=white&link=https://storyinstory.tistory.com/)](https://storyinstory.tistory.com/)
   
 - **AI Engineer / Backend Developer**
 - **B.S. in Computer Engineering, Hansung University, Seoul, Korea** `2018.03 ~ 2025.02` 🎓

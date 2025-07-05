@@ -1,84 +1,64 @@
+## 🔥 JUST DO IT [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fstoryinstoryjks?color=gray&label=hits&size=small)](https://myhits.vercel.app)
+
+### ⁉️ ABOUT ME
+##### 👇 클릭하시면 해당하는 링크로 연결됩니다! 👇 (노션 링크 미기재)
+<a href="#"/>
+  <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> </a>
+<a href="https://storyinstory.tistory.com/"/>
+  <img src="https://img.shields.io/badge/Tistory-FD5F07.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a>
+<a href="mailto:jksohn28@gmail.com" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jksohn28@gmail.com"/> </a>
+  
+- **AI Engineer / Backend Developer**
+- **B.S. in Computer Engineering, Hansung University, Seoul, Korea** `2018.03 ~ 2025.02` 🎓
+- **데이터**와 **AI**로 더 좋은 세상을 만드는 **비즈니스 문제 해결사**, `JKS` 🔥
+- **RestFul**기반 **Monolith / MSA 구조**로 **효율적인 리소스를 제공하는 개발자**, `JKS`🔥
+
+### 🖥️ PROJECTS
+<!-- |`2025.04 - 2025.05`|[**PR Agent**](link) | 주관 |-->
+| **기간** | **프로젝트명** | **주관**  |
+| -------- | ------------| ----------- |
+|`2025.07 - 2025.09`| 진행중 | KT AIVLE |
+|`2025.06 - 2025.07`| **KT 걷다가 서재 : MSA 구조의 AI기반 출간 자동화** | KT AIVLE |
+|`2024.06`| **도서 관리 시스템 : 생성형 AI 기반 표지 생성 자동화** | KT AIVLE |
+|`2025.05`| **AI 면접관 Agent 웹 서비스** | KT AIVLE |
+|`2025.04`| **스마트폰 센서 데이터 기반 모션 분류** | KT AIVLE |
+|`2025.02`| **난임 환자 임신 성공 예측 모델링** | LG생활건강 공모전 |
+|`2024.03 - 2024.06`| **주식 AI 어시스턴트 웹 서비스** | Hansung University |
+|`2023.09 - 2024.12`| **식재료 최저가 주문/조회 웹 서비스** | Personal |
+
+### 💎 AWARDS
+| **기간** | **주제** | **주관** | **순위** |
+| -------- | ------------| ----------- | ----------- |
+| `2021.01 - 2021.03` | **스마트 호수 관리 시스템** | **하남스마트시티 아이디어 공모전** | **은상** |
+
+### 🔥 ACTIVITIES (EDUCATION)
+| **기간** | **활동명** | **한줄소개** | **주관** |
+| -------- | ------------| ----------- | ----------- |
+| `2025.03 - 2025.09` | **KT AIVLE SCHOOL 7기, AI트랙** | **수료예정** | 기업 실무형 AI 웹 서비스를 위한 교육 및 5번 이상의 협업 프로젝트 | **KT** / **고용노동부** |
+| `2025.01 - 2025.02` | **LG Aimers 6기** | **수료** | AI전문가(교수진)의 AI 교육 및 LG생활건강 AI해커톤 | **LG AI연구원** / **고용노동부** |
+
+### 💎 CERTIFICATES
+| **발급년도** | **자격증** |  **발급기관**  |
+| -------- | ------------| ----------- |
+|`2025`| **AI Certificate for Everyone Associate** | KT AICE |
+|`2025`| **정보처리기사** | 한국산업인력공단 |
+
 <!--
-**storyinstoryjks/storyinstoryjks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍🏻 STUDY
+| Algorithm | Computer Science | Paper Review  | ML Study | 
+| -------- |  ----------- |----------- |----------- |
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-<!-- Header --> 
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%,%World!&height=180&animation=fadeIn)
-  <h3>
-    👑 Welcome  to my  github! 
-  </h3>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstoryinstoryjks&count_bg=%23B22AAD&title_bg=%23AA1919&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=false"/></a>
-  <br/>
-  <br/>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=storyinstoryjks&show_icons=true&theme=radical)
-</div>
 
-<!-- Body -->
-<div align="center">
-
-  <h1>📖 STACKS</h1>
-
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br/>
-
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <br/>
-
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-  <br/>
-
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br/>
-
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br/>
-
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br/>
-
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <br/>
-
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
-  <br/>
-  <br/>
-
-  <h1>👨‍🎓 Algo</h1>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=copier2008)](https://solved.ac/copier2008/)
-
-  <br/>
-  
-  <h1>📬 Contacts</h1>
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jksohn28@gmail.com)](mailto:jksohn28@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jksohn28@naver.com)](mailto:jksohn28@naver.com)
-</div>
+### 📚 TECH STACKS
+#### 🛠 Language & Web
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> <img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+#### 🛠 Data Analysis & AI(ML,DL,Agent)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white"> 
+#### 🛠 DBMS
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/H2%20Database-09476B?style=for-the-badge&logo=H2%20Database&logoColor=white"> 
+#### 🛠 DevOps
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=AWS%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/MS%20Azure-3FA9F5?style=for-the-badge&logo=MS%20Azure&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+#### 📜 SOLVED.AC
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=copier2008)](https://solved.ac/copier2008/)
